@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Sacor.tech<br>🌱 I’m currently learning game development <br>
+🌱 I’m currently learning game development <br>
 
 
 ## 🌐 Socials:
